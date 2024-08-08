@@ -1,6 +1,6 @@
 # STOFS3D-ATL-PREPROCESSING
 
-# STOFS 3D ATL Script Hierarchy Table
+## STOFS 3D ATL Preprocessing Script Hierarchy Table
 
 | Main Script | Scripts Called | Purpose |
 |-------------|----------------|---------|
@@ -16,6 +16,7 @@
 |  | 7. stofs_3d_atl_create_river_st_lawrence.sh | Creates forcing files for the St. Lawrence River |
 |  | 8. stofs_3d_atl_create_obc_3d_th.sh | Creates 3D temperature and salinity files |
 
+## Flowcharts
 
 ### Main Components
 
