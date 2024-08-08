@@ -35,20 +35,3 @@ The preprocessing workflow is visualized through several flowcharts, each focusi
 
 These flowcharts provide a visual representation of the various stages and components involved in the STOFS3D-ATL preprocessing workflow.
 
-## Usage
-
-To use these preprocessing scripts:
-
-1. Ensure you have the necessary permissions and access to the required data sources.
-2. Follow the script hierarchy as outlined in the table above.
-3. Run the scripts in the order specified, starting with `jstofs_3d_atl_prep.ecf`.
-
-For more detailed instructions on running each script, please refer to the individual script documentation or comments within the code.
-
-## Contributing
-
-If you wish to contribute to this preprocessing workflow or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-[Insert appropriate license information here]
