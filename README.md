@@ -5,9 +5,8 @@
 | Main Script | Scripts Called | Purpose |
 |-------------|----------------|---------|
 | jstofs_3d_atl_prep.ecf | JSTOFS_3D_ATL_PREP |Initiates the preparation process |
-| JSTOFS_3D_ATL_PREP | 1. exstofs_3d_atl_prep_processing.sh | Main processing script |
-|  | 2. setpdy.sh | Sets up date variables |
-|  | (Other scripts may be called, need to check script contents) | |
+| JSTOFS_3D_ATL_PREP | exstofs_3d_atl_prep_processing.sh | Executes the main preparation tasks |
+|  |  setpdy.sh | Sets up date variables |
 | exstofs_3d_atl_prep_processing.sh | 1. stofs_3d_atl_create_param_nml.sh | Creates param.nml file |
 |  | 2. stofs_3d_atl_create_bctides_in.sh | Creates bctides.in file |
 |  | 3. stofs_3d_atl_create_river_forcing_nwm.sh | Creates river forcing from NWM |
