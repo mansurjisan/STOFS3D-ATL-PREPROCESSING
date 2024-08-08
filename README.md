@@ -4,7 +4,7 @@
 
 | Main Script | Scripts Called | Purpose |
 |-------------|----------------|---------|
-| jstofs_3d_atl_prep.ecf | 1. JSTOFS_3D_ATL_PREP | Main job script |
+| jstofs_3d_atl_prep.ecf | 1. JSTOFS_3D_ATL_PREP |Initiates the preparation process |
 | JSTOFS_3D_ATL_PREP | 1. exstofs_3d_atl_prep_processing.sh | Main processing script |
 |  | 2. setpdy.sh | Sets up date variables |
 |  | (Other scripts may be called, need to check script contents) | |
