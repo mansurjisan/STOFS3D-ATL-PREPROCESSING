@@ -14,6 +14,8 @@
 |  | 5. stofs_3d_atl_create_surface_forcing_hrrr.sh | Creates surface forcing from HRRR |
 |  | 6. stofs_3d_atl_create_obc_3dth_nudge.sh | Creates OBC 3DTH nudging |
 |  | 7. stofs_3d_atl_create_river_st_lawrence.sh | Creates forcing files for the St. Lawrence River |
+|  | 8. stofs_3d_atl_create_obc_3d_th.sh | Creates 3D temperature and salinity files |
+
 
 ### Main Components
 
